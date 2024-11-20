@@ -71,7 +71,7 @@ body {
 
 .logo .fa-bolt {
   color: #fed700;
-  font-size: 19.5px;
+  font-size: 25px;
   position: absolute;
   top: 60%;
   left: 100%;
@@ -80,7 +80,7 @@ body {
 }
 
 .signature {
-  width: 100px;
+  width: 250px;
   height: auto;
   margin-right: 10px;
 }
@@ -595,3 +595,4 @@ profile-photo .img {
   }
 
 }
+
